@@ -1,4 +1,4 @@
-Wolt frontend assignment-
+#Wolt frontend assignment-
 Delivery calculator:
 
 This code is required when a customer has their cart ready and we want to show them the shipping charges. Shipping prices depend on cart value, number of items in cart, order time and delivery distance.
